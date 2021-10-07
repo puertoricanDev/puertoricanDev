@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @puertoricanDev
+- 👋 Hi, I’m @puertoricanDev and my name is Leancarlo Ruiz
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Python Javascript React
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any industry.
 - 📫 How to reach me puertorican.dev@gmail.com 
 
