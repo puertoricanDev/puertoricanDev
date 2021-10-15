@@ -8,5 +8,5 @@
 My story so far...
 
 After high school I started studing Idustrial Engeneering and after some years of this beautiful career I understood that my passion was coding. I changed to another college
-and continued studying Computer Science. I am now a father of two daughters and a housband and I am working as an IT in a health center(5 years). My current project is that I am taking [CS50W](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) from Harvard and I am about to finish the last project. Today 4/13/2021 I decided to start looking for a job in web development.
+and continued studying Computer Science. I am now a father of two daughters and a housband. Currently I am working as an IT in a health center(5 years). I will have completed my Computer Science degree by May 2022. Since my passion for coding continues growing I am looking for a new job oportunity for me to grow with a company.
 
